@@ -2,6 +2,11 @@
 
 A modern Employee Management System built with **React** and **Vite**. This project provides a responsive web interface for managing employees and their tasks, including adding and viewing their associated tasks. The employees are allowed to mark a task as completed or failed. The application is designed for scalability and maintainability, following best practices in React development.
 
+## Live Demo
+
+Check out the live application here:  
+[https://employee-management-system-pragyat-nikunjs-projects.vercel.app/](https://employee-management-system-pragyat-nikunjs-projects.vercel.app/)
+
 ## Features
 
 - View a list of all employees and their tasks
